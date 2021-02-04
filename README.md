@@ -11,3 +11,4 @@ FF' function:
 
 Transit sepration:
 
+RV Jitter estimation using TESS photometric variability (Hojjatpanah et al. 2020)
